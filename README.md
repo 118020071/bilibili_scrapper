@@ -1,2 +1,2 @@
 # bilibili_scrapper
-Several Method to crawl bilibili database
+Use several methods to crawl bilibili database
